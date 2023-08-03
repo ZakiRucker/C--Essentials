@@ -1,0 +1,1 @@
+This repo is to follow allong with the C++ Essentials course on LinkedIn Learning.
